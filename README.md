@@ -10,7 +10,7 @@
 
 ### Инструменты и дополнительные материалы, которые пригодятся для выполнения работы
 
-- [Макеты страниц в Figma](https://www.figma.com/design/CkpUJNsiBBWU2T6YqFYVWY/%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD-%D0%BC%D0%B0%D0%BA%D0%B5%D1%82?node-id=0-1&t=psYnwJSevv2NEMii-1)
+- [Макеты страниц в Figma](https://www.figma.com/design/CkpUJNsiBBWU2T6YqFYVWY/Дизайн-макет?node-id=0-1&p=f&t=AtYERy2WmHOS34E6-0)
 - [Информация по API](./md/api.md).
 
 ### Описание проекта
